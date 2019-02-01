@@ -41,6 +41,11 @@ dotty@~0.1.0:
   resolved "https://registry.yarnpkg.com/dotty/-/dotty-0.1.0.tgz#da371ccd931a37282f8f7f77adada7d54539708a"
   integrity sha512-VJzcXJZEckXowvj6yGJC2JH66DLEEm1d1QOB0hik1EvlbUpULvcYt411JeFuy8rNC96FG8V2N7pMkyjvK8LYwQ==
 
+easy-encryption@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/easy-encryption/-/easy-encryption-0.1.1.tgz#9bbdd10750a8c1676901f76d7b7526bca47c5aa3"
+  integrity sha1-m73RB1CowWdpAfdte3UmvKR8WqM=
+
 json-stable-stringify@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/json-stable-stringify/-/json-stable-stringify-1.0.1.tgz#9a759d39c5f2ff503fd5300646ed445f88c4f9af"
@@ -86,6 +91,13 @@ mongodb@3.1.10:
   dependencies:
     mongodb-core "3.1.9"
     safe-buffer "^5.1.2"
+
+mongoose-encrypted-property@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/mongoose-encrypted-property/-/mongoose-encrypted-property-1.1.1.tgz#3891de6b226a874d195ff88ce1f97a2f31960dfb"
+  integrity sha1-OJHeayJqh00ZX/iM4fl6LzGWDfs=
+  dependencies:
+    easy-encryption "^0.1.1"
 
 mongoose-encryption@^2.0.1:
   version "2.0.1"

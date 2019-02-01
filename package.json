@@ -3,6 +3,7 @@
     "bluebird": "^3.5.3",
     "mongoose": "^5.4.8",
     "mongoose-encrypted-property": "^1.1.1",
-    "mongoose-encryption": "^2.0.1"
+    "mongoose-encryption": "^2.0.1",
+    "mongoose-field-encryption": "^2.1.3"
   }
 }

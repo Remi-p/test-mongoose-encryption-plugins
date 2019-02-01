@@ -112,6 +112,11 @@ mongoose-encryption@^2.0.1:
     semver "^5.5.0"
     underscore "^1.5.0"
 
+mongoose-field-encryption@^2.1.3:
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/mongoose-field-encryption/-/mongoose-field-encryption-2.1.3.tgz#4ccca098673e5547f65a1998c548df44af7a85f4"
+  integrity sha512-IGoHkSEd4jPL6EeHTwuOE8SWgnYIlgTkAl2LznuVlLn9oLS136aCQ3NqczVNQokgE4er6+pO9nmZZMJqlYTwrA==
+
 mongoose-legacy-pluralize@1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/mongoose-legacy-pluralize/-/mongoose-legacy-pluralize-1.0.2.tgz#3ba9f91fa507b5186d399fb40854bff18fb563e4"
